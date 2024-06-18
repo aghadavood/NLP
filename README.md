@@ -4,6 +4,8 @@ For Persian question-answering tasks, several models can be considered. Below is
 ParsBERT
 Description: A BERT-based model pre-trained on a large Persian corpus.
 Repository: HooshvareLab/bert-fa-base-uncased · Hugging Face
+
+
 XLM-RoBERTa
 Description: A multilingual version of RoBERTa pre-trained on a large corpus covering multiple languages, including Persian.
 Repository: FacebookAI/xlm-roberta-base · Hugging Face
